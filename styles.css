@@ -133,3 +133,7 @@ aside {
           font-size: 18px;
       }
     }
+    .footer{
+        float:bottom right;
+
+    }
